@@ -1,0 +1,7 @@
+torch==2.3.0
+pandas==2.2.2
+scikit-learn==1.3.1      # For data processing and model evaluation
+numpy==1.25.2            # For numerical operations
+torchvision==0.15.2      # For additional model utilities, useful if extending to image datasets
+logging==0.5.1.2         # For logging purposes
+pytest==7.4.0            # For running tests
