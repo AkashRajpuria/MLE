@@ -1,5 +1,5 @@
 
-# Basic Machine Learning Engineering Project
+# Machine Learning Engineering Project
 
 This project demonstrates a complete machine learning workflow for training and inference on the Iris dataset. It includes data processing, model training, inference, and testing, all configured to run within Docker containers for reproducibility and isolation.
 
